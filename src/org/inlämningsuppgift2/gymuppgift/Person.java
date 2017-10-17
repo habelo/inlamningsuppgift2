@@ -22,5 +22,6 @@ abstract public class Person {
 	}
 
 	public void setNamn() {}
+	public void printMe() {}
 
 }
